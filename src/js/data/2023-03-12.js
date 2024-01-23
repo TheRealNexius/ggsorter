@@ -3514,7 +3514,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Chaeyeon",
-        img: "gyhIW6r.jpeg",
+        img: "72FlBXH.png",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -3530,7 +3530,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Nakyoung",
-        img: "SQe9B3t.jpeg",
+        img: "AEzwQLx.png",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -3538,7 +3538,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Yooyeon",
-        img: "UzUIDb9.png",
+        img: "OcqdfxY.png",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4266,7 +4266,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yoon Seoyeon",
-        img: "W9s8QlT.jpeg",
+        img: "CentDLl.png",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
