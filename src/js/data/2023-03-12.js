@@ -98,6 +98,9 @@ dataSet[dataSetVersion].options = [
       {name: "mimiirose", key: "mimiirose"},
       {name: "tripleS", key: "tripleS"},
       {name: "woo!ah!", key: "woo!ah!"},
+	  {name: "KISS OF LIFE", key: "KISS OF LIFE"},
+	  {name: "ILLIT", key: "ILLIT"},
+	  {name: "ICHILLIN'", key: "ICHILLIN'"},
       {name: "Soloists", key: "soloist"}
     ]
   },
@@ -3002,7 +3005,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Choerry",
-        img: "h4pgvzO.jpeg",
+        img: "Qc2pjWW.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3034,7 +3037,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Chuu",
-        img: "t8Jbyq1.jpeg",
+        img: "R7pdUht.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3178,7 +3181,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Gowon",
-        img: "2yWdo3m.jpeg",
+        img: "Bn8z8fA.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3266,7 +3269,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Haseul",
-        img: "jPpp2t2.jpeg",
+        img: "IhSZTUz.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3282,7 +3285,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Heejin",
-        img: "WVsI25A.jpeg",
+        img: "VOZTtvP.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3346,7 +3349,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Hyunjin",
-        img: "SoY7pdM.jpeg",
+        img: "teUrHM7.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3450,7 +3453,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Jinsoul",
-        img: "mhYU3fx.jpeg",
+        img: "Li3cQNT.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3514,7 +3517,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Chaeyeon",
-        img: "72FlBXH.png",
+        img: "6bt2Ilj.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -3522,7 +3525,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Kim Lip",
-        img: "DIgYviS.jpeg",
+        img: "f4F2w9V.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -3530,7 +3533,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Nakyoung",
-        img: "AEzwQLx.png",
+        img: "n7uvBw7.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -3538,7 +3541,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Kim Yooyeon",
-        img: "OcqdfxY.png",
+        img: "D42ijUP.jpg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -3817,8 +3820,8 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Olivia Hye",
-        img: "xK2dn8s.jpeg",
+        name: "LOONA Hyeju",
+        img: "anajZPJ.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -4162,7 +4165,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Vivi",
-        img: "JRJ1z7J.jpeg",
+        img: "nGQh01d.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -4178,7 +4181,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Wonyoung",
-        img: "ffiYmls.jpeg",
+        img: "METN5ra.jpg",
         opts: {
             group: ["IZ*ONE"],
             gen: ["gen4"]
@@ -4226,7 +4229,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Yeojin",
-        img: "PxM3e82.jpeg",
+        img: "0cu9Utu.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -4266,7 +4269,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "tripleS Yoon Seoyeon",
-        img: "CentDLl.png",
+        img: "iFKs2uf.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4362,7 +4365,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LOONA Yves",
-        img: "UsZ7cPu.jpeg",
+        img: "CTuTYkn.jpeg",
         opts: {
             group: ["LOONA"],
             gen: ["gen4"]
@@ -4434,7 +4437,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "tripleS Kotone",
-        img: "5pcDAyn.png",
+        img: "XgNAnRK.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4442,15 +4445,15 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "tripleS Xinyu",
-        img: "DEdbLxy.png",
+        img: "KamW4bY.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
         }
     },
 	{
-        name: "tripleS Sohyun",
-        img: "WOFaGiF.png",
+        name: "tripleS Park Sohyun",
+        img: "P1VJklf.jpeg",
         opts: {
             group: ["tripleS"],
             gen: ["gen4"]
@@ -4458,7 +4461,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "IVE Leeseo",
-        img: "wq2nICH.jpg",
+        img: "NxSLxRl.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4478,6 +4481,278 @@ dataSet[dataSetVersion].characterData = [
         opts: {
             group: ["soloist"],
             gen: ["gen3"]
+        }
+    },
+	{
+        name: "woo!ah! Minseo",
+        img: "4jTqVHe.jpeg",
+        opts: {
+            group: ["woo!ah!"],
+            gen: ["gen4"]
+        }
+    }, 
+	{
+        name: "KISS OF LIFE Julie",
+        img: "ilD3cAA.jpg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "KISS OF LIFE Natty",
+        img: "KQKeU0p.jpg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "KISS OF LIFE Belle",
+        img: "DHDCUYj.jpg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "KISS OF LIFE Haneul",
+        img: "awLG33v.jpeg",
+        opts: {
+            group: ["KISS OF LIFE"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ILLIT Yunah",
+        img: "6mJ83xY.jpg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ILLIT Minju",
+        img: "OW42rJ8.jpg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ILLIT Moka",
+        img: "WGGB4jx.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ILLIT Wonhee",
+        img: "N67TTS9.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ILLIT Iroha",
+        img: "LeDLz7q.jpeg",
+        opts: {
+            group: ["ILLIT"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Mayu",
+        img: "HQ5GlFv.jpg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Seo Dahyun",
+        img: "gbJXvo4.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Nien",
+        img: "LT7rNHF.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Jiyeon",
+        img: "GruDI29.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Gong Yubin",
+        img: "7ADLo3j.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Lee Jiwoo",
+        img: "QQr74dS.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Kaede",
+        img: "gWNF1Ta.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Park Shion",
+        img: "zKXgEIi.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Lynn",
+        img: "IdP7iQp.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Sullin",
+        img: "C6T229M.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Jeong Hyerin",
+        img: "8GOZo1r.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Kim Chaewon",
+        img: "ULjfLIz.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Jeong Hayeon",
+        img: "npawSXx.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Kim Soomin",
+        img: "xa8SS7i.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Kwak Yeonji",
+        img: "dg8vFqO.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Joobin",
+        img: "3Ixyhm8.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "tripleS Seoah",
+        img: "Hg9dKH1.jpeg",
+        opts: {
+            group: ["tripleS"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' E.JI",
+        img: "X6GhN2i.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Jiyoon",
+        img: "izY0RrE.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Jackie",
+        img: "RJQB0uF.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Joonie",
+        img: "vXxf0wU.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Chaerin",
+        img: "1zVZUDu.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Yeju",
+        img: "GA31lOE.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "ICHILLIN' Chowon",
+        img: "JWAjGze.jpeg",
+        opts: {
+            group: ["ICHILLIN'"],
+            gen: ["gen4"]
         }
     }
 ];
