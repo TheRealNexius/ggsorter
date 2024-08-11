@@ -81,11 +81,10 @@ dataSet[dataSetVersion].options = [
       {name: "Kep1er", key: "Kep1er"},
       {name: "LE SSERAFIM", key: "LE SSERAFIM"},
       {name: "LIMELIGHT", key: "LIMELIGHT"},
-      {name: "LOONA", key: "LOONA"},
       {name: "Lightsum", key: "Lightsum"},
       {name: "Nature", key: "Nature"},
       {name: "NewJeans", key: "NewJeans"},
-      {name: "Nmixx", key: "Nmixx"},
+      {name: "NMIXX", key: "NMIXX"},
       {name: "Pixy", key: "Pixy"},
       {name: "Purple Kiss", key: "Purple Kiss"},
       {name: "Rocket Punch", key: "Rocket Punch"},
@@ -101,6 +100,9 @@ dataSet[dataSetVersion].options = [
 	  {name: "KISS OF LIFE", key: "KISS OF LIFE"},
 	  {name: "ILLIT", key: "ILLIT"},
 	  {name: "ICHILLIN'", key: "ICHILLIN'"},
+	  {name: "BABYMONSTER", key: "BABYMONSTER"},
+	  {name: "ARTMS", key: "ARTMS"},
+	  {name: "Loossemble", key: "Loossemble"},
       {name: "Soloists", key: "soloist"}
     ]
   },
@@ -120,14 +122,6 @@ dataSet[dataSetVersion].characterData = [
         img: "EJAI9ha.jpeg",
         opts: {
             group: ["S.E.S."],
-            gen: ["gen1"]
-        }
-    },
-    {
-        name: "BoA",
-        img: "xesVuX8.jpeg",
-        opts: {
-            group: ["soloist"],
             gen: ["gen1"]
         }
     },
@@ -195,14 +189,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen2"]
         }
     },
-    {
-        name: "Ailee",
-        img: "q0TWy1J.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen2"]
-        }
-    },
+ //   {
+ //       name: "Ailee",
+ //      img: "q0TWy1J.jpeg",
+ //       opts: {
+ //           group: ["soloist"],
+ //           gen: ["gen2"]
+ //       }
+ //   },
     {
         name: "Hellovenus Alice",
         img: "L80EqJw.jpeg",
@@ -427,14 +421,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen2"]
         }
     },
-    {
-        name: "G.na",
-        img: "S3SNZJY.jpg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen2"]
-        }
-    },
+//    {
+//        name: "G.na",
+//        img: "S3SNZJY.jpg",
+//        opts: {
+//            group: ["soloist"],
+//            gen: ["gen2"]
+//        }
+//    },
     {
         name: "Brown Eyed Girls Gain",
         img: "rWdWerY.png",
@@ -645,7 +639,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IU",
-        img: "Wfz8smb.jpeg",
+        img: "yCj7pMB.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen2"]
@@ -1051,14 +1045,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen2"]
         }
     },
-    {
-        name: "NS Yoon-G",
-        img: "GacNRgx.png",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen2"]
-        }
-    },
+//    {
+//        name: "NS Yoon-G",
+//        img: "GacNRgx.png",
+//        opts: {
+//            group: ["soloist"],
+//            gen: ["gen2"]
+//        }
+//    },
     {
         name: "Apink Naeun",
         img: "jtKQ0Y1.png",
@@ -1899,14 +1893,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen3"]
         }
     },
-    {
-        name: "Heize",
-        img: "Prw6zC8.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen3"]
-        }
-    },
+//    {
+//        name: "Heize",
+//        img: "Prw6zC8.jpeg",
+//        opts: {
+//            group: ["soloist"],
+//            gen: ["gen3"]
+//        }
+//    },
     {
         name: "Sonamoo Hezz",
         img: "UkRdSmt.jpeg",
@@ -2909,17 +2903,17 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "BIBI",
-        img: "MZYVjcB.jpeg",
+        img: "odOSVpU.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
         }
     },
     {
-        name: "Nmixx Bae",
-        img: "4v7fawb.jpeg",
+        name: "NMIXX Bae",
+        img: "EX2CTxO.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["NMIXX"],
             gen: ["gen4"]
         }
     },
@@ -2980,10 +2974,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Chaewon",
+        name: "LE SSERAFIM Chaewon",
         img: "mkJfJiC.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["LE SSERAFIM"],
             gen: ["gen4"]
         }
     },
@@ -3004,10 +2998,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Choerry",
+        name: "ARTMS Choerry",
         img: "Qc2pjWW.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["ARTMS"],
             gen: ["gen4"]
         }
     },
@@ -3039,7 +3033,7 @@ dataSet[dataSetVersion].characterData = [
         name: "LOONA Chuu",
         img: "R7pdUht.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3165,7 +3159,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Giselle",
-        img: "MVMIuQo.jpeg",
+        img: "S6FAtwp.jpeg",
         opts: {
             group: ["Aespa"],
             gen: ["gen4"]
@@ -3180,10 +3174,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Gowon",
+        name: "Loossemble Gowon",
         img: "Bn8z8fA.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["Loossemble"],
             gen: ["gen4"]
         }
     },
@@ -3204,10 +3198,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nmixx Haewon",
-        img: "dG6TDai.jpeg",
+        name: "NMIXX Haewon",
+        img: "oB7R4km.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["NMIXX"],
             gen: ["gen4"]
         }
     },
@@ -3268,10 +3262,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Haseul",
+        name: "ARTMS Haseul",
         img: "IhSZTUz.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["ARTMS"],
             gen: ["gen4"]
         }
     },
@@ -3284,10 +3278,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Heejin",
+        name: "ARTMS Heejin",
         img: "VOZTtvP.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["ARTMS"],
             gen: ["gen4"]
         }
     },
@@ -3335,7 +3329,7 @@ dataSet[dataSetVersion].characterData = [
         name: "IZ*ONE Hyewon",
         img: "DN8c4L9.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3348,10 +3342,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Hyunjin",
+        name: "Loossemble Hyunjin",
         img: "teUrHM7.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["Loossemble"],
             gen: ["gen4"]
         }
     },
@@ -3436,14 +3430,6 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nmixx Jinni",
-        img: "uFwhX3r.jpeg",
-        opts: {
-            group: ["Nmixx"],
-            gen: ["gen4"]
-        }
-    },
-    {
         name: "Secret Number Jinny",
         img: "wl3BDmb.png",
         opts: {
@@ -3452,10 +3438,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Jinsoul",
+        name: "ARTMS Jinsoul",
         img: "Li3cQNT.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["ARTMS"],
             gen: ["gen4"]
         }
     },
@@ -3487,13 +3473,13 @@ dataSet[dataSetVersion].characterData = [
         name: "IZ*ONE Jo Yuri",
         img: "yuA83rb.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
     {
         name: "Aespa Karina",
-        img: "D1Ap9wA.jpeg",
+        img: "h1gokcJ.jpeg",
         opts: {
             group: ["Aespa"],
             gen: ["gen4"]
@@ -3524,10 +3510,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Kim Lip",
+        name: "ARTMS Kim Lip",
         img: "f4F2w9V.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["ARTMS"],
             gen: ["gen4"]
         }
     },
@@ -3557,9 +3543,9 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Kwon Eunbi",
-        img: "PTIHNWz.jpeg",
+        img: "mf73MZD.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3575,7 +3561,7 @@ dataSet[dataSetVersion].characterData = [
         name: "IZ*ONE Lee Chaeyeon",
         img: "yj8ONrF.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -3604,10 +3590,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nmixx Lily",
-        img: "w2vB92S.jpeg",
+        name: "NMIXX Lily",
+        img: "2SxWiq4.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["NMIXX"],
             gen: ["gen4"]
         }
     },
@@ -3813,17 +3799,17 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Aespa Ningning",
-        img: "zvTRLPD.jpeg",
+        img: "rv0djIg.jpeg",
         opts: {
             group: ["Aespa"],
             gen: ["gen4"]
         }
     },
     {
-        name: "LOONA Hyeju",
+        name: "Loossemble Hyeju",
         img: "anajZPJ.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["Loossemble"],
             gen: ["gen4"]
         }
     },
@@ -3908,10 +3894,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Sakura",
+        name: "LE SSERAFIM Sakura",
         img: "eaZ3LVk.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["LE SSERAFIM"],
             gen: ["gen4"]
         }
     },
@@ -4108,10 +4094,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "Nmixx Sullyoon",
-        img: "Xzpy7WP.jpeg",
+        name: "NMIXX Sullyoon",
+        img: "tNQOyAN.jpeg",
         opts: {
-            group: ["Nmixx"],
+            group: ["NMIXX"],
             gen: ["gen4"]
         }
     },
@@ -4164,26 +4150,26 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Vivi",
+        name: "Loossemble Vivi",
         img: "nGQh01d.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["Loossemble"],
             gen: ["gen4"]
         }
     },
     {
         name: "Aespa Winter",
-        img: "uyH3Fk2.jpeg",
+        img: "cV0WXYu.jpeg",
         opts: {
             group: ["Aespa"],
             gen: ["gen4"]
         }
     },
     {
-        name: "IZ*ONE Wonyoung",
+        name: "IVE Wonyoung",
         img: "METN5ra.jpg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["IVE"],
             gen: ["gen4"]
         }
     },
@@ -4207,7 +4193,7 @@ dataSet[dataSetVersion].characterData = [
         name: "IZ*ONE YENA",
         img: "Iu3kw6J.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4228,10 +4214,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "LOONA Yeojin",
+        name: "Loossemble Yeojin",
         img: "0cu9Utu.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["Loossemble"],
             gen: ["gen4"]
         }
     },
@@ -4308,10 +4294,10 @@ dataSet[dataSetVersion].characterData = [
         }
     },
     {
-        name: "IZ*ONE Yujin",
+        name: "IVE Yujin",
         img: "vAir9sK.jpeg",
         opts: {
-            group: ["IZ*ONE"],
+            group: ["IVE"],
             gen: ["gen4"]
         }
     },
@@ -4331,14 +4317,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen4"]
         }
     },
-    {
-        name: "Yukika",
-        img: "BuRyLZf.jpeg",
-        opts: {
-            group: ["soloist"],
-            gen: ["gen4"]
-        }
-    },
+//    {
+//        name: "Yukika",
+//        img: "BuRyLZf.jpeg",
+//        opts: {
+//            group: ["soloist"],
+//            gen: ["gen4"]
+//        }
+//    },
     {
         name: "ITZY Yuna",
         img: "Ci4oipF.jpeg",
@@ -4367,7 +4353,7 @@ dataSet[dataSetVersion].characterData = [
         name: "LOONA Yves",
         img: "CTuTYkn.jpeg",
         opts: {
-            group: ["LOONA"],
+            group: ["soloist"],
             gen: ["gen4"]
         }
     },
@@ -4752,6 +4738,78 @@ dataSet[dataSetVersion].characterData = [
         img: "JWAjGze.jpeg",
         opts: {
             group: ["ICHILLIN'"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Ruka",
+        img: "hjRPaAe.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Pharita",
+        img: "NbvfAuj.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Asa",
+        img: "dvFC4Mx.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Ahyeon",
+        img: "sDkEUdp.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Rami",
+        img: "Iz7q0Xd.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Rora",
+        img: "6KRZxJY.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "BABYMONSTER Chiquita",
+        img: "VZ2Bpug.jpeg",
+        opts: {
+            group: ["BABYMONSTER"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "NMIXX Jiwoo",
+        img: "RtpyZFQ.jpeg",
+        opts: {
+            group: ["NMIXX"],
+            gen: ["gen4"]
+        }
+    },
+	{
+        name: "NMIXX Kyujin",
+        img: "tfppZSJ.jpeg",
+        opts: {
+            group: ["NMIXX"],
             gen: ["gen4"]
         }
     }
