@@ -2975,7 +2975,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Chaewon",
-        img: "mkJfJiC.jpeg",
+        img: "QGaXvOG.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -2983,7 +2983,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Chaeyoung",
-        img: "fRgO8rH.jpeg",
+        img: "dv9GT9U.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3143,7 +3143,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Gaeul",
-        img: "T8Z3Ygf.jpeg",
+        img: "oBULEVJ.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -3181,14 +3181,14 @@ dataSet[dataSetVersion].characterData = [
             gen: ["gen4"]
         }
     },
-    {
-        name: "Fromis 9 Gyuri",
-        img: "CmU2rZ4.jpeg",
-        opts: {
-            group: ["Fromis 9"],
-            gen: ["gen4"]
-        }
-    },
+//    {
+//        name: "Fromis 9 Gyuri",
+//        img: "CmU2rZ4.jpeg",
+//        opts: {
+//            group: ["Fromis 9"],
+//            gen: ["gen4"]
+//        }
+//    },
     {
         name: "DreamNote Habin",
         img: "pGo5cIi.jpeg",
@@ -3271,7 +3271,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Hayoung",
-        img: "j7D1QPu.jpeg",
+        img: "YtYi1Ss.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3415,7 +3415,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jiheon",
-        img: "M8fWt8Q.jpeg",
+        img: "kER2tV8.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3447,7 +3447,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jisun",
-        img: "kNOLlTe.jpeg",
+        img: "x5z1Not.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3463,7 +3463,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Jiwon",
-        img: "cBlQ9zV.jpeg",
+        img: "7pVOMe1.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3487,7 +3487,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Kazuha",
-        img: "Wvk9PQY.jpeg",
+        img: "7h6ymyP.png",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -3607,7 +3607,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Liz",
-        img: "zPiNlw6.jpeg",
+        img: "FZRzNjM.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -3703,7 +3703,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE Minju",
-        img: "P34Syds.png",
+        img: "ipPPq4h.png",
         opts: {
             group: ["IZ*ONE"],
             gen: ["gen4"]
@@ -3759,7 +3759,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Nagyung",
-        img: "pcJXBJb.jpeg",
+        img: "7JyboqH.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3831,7 +3831,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Rei",
-        img: "tnmyE9S.jpeg",
+        img: "N2NSoFq.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -3887,7 +3887,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Saerom",
-        img: "QBUCKpy.jpeg",
+        img: "0Zzm4XR.jpeg",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -3895,7 +3895,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Sakura",
-        img: "eaZ3LVk.jpeg",
+        img: "wStKQ6O.png",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -3967,7 +3967,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "Fromis 9 Seoyeon",
-        img: "Xrfy3lS.jpeg",
+        img: "8baYV6S.png",
         opts: {
             group: ["Fromis 9"],
             gen: ["gen4"]
@@ -4191,7 +4191,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IZ*ONE YENA",
-        img: "Iu3kw6J.jpeg",
+        img: "Suew90h.jpeg",
         opts: {
             group: ["soloist"],
             gen: ["gen4"]
@@ -4295,7 +4295,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "IVE Yujin",
-        img: "vAir9sK.jpeg",
+        img: "sWRUiHj.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
@@ -4335,7 +4335,7 @@ dataSet[dataSetVersion].characterData = [
     },
     {
         name: "LE SSERAFIM Yunjin",
-        img: "HWB9vGc.jpeg",
+        img: "I9lEVb1.jpeg",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -4375,7 +4375,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "LE SSERAFIM Eunchae",
-        img: "xJkFNTR.jpg",
+        img: "Y0mSvus.png",
         opts: {
             group: ["LE SSERAFIM"],
             gen: ["gen4"]
@@ -4447,7 +4447,7 @@ dataSet[dataSetVersion].characterData = [
     },
 	{
         name: "IVE Leeseo",
-        img: "NxSLxRl.jpeg",
+        img: "f0cYz77.jpeg",
         opts: {
             group: ["IVE"],
             gen: ["gen4"]
